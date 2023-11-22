@@ -2,5 +2,5 @@
     * 기간 : 
     * 내용 : 
 
-  <img src="just_start.jpg">
+  <img src="multicam.jpeg">
 
