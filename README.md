@@ -2,4 +2,5 @@
     * 기간 : 
     * 내용 : 
 
-    <img
+  <img src="just_start.jpg">
+
